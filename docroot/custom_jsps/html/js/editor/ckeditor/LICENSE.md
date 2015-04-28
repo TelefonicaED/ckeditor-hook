@@ -6,7 +6,7 @@ Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 
 Licensed under the terms of any of the following licenses at your
 choice:
-
+ 
  - GNU General Public License Version 2 or later (the "GPL")
    http://www.gnu.org/licenses/gpl.html
    (See Appendix A)
