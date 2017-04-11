@@ -46,7 +46,8 @@ CKEDITOR.editorConfig = function( config ) {
 
 	config.height = 100;
 
-	// config.language = '<%= HtmlUtil.escapeJS(languageId) %>';
+	 config.language = '<%= HtmlUtil.escapeJS(languageId) %>';
+//	config.language = 'es';
 
 	config.stylesCombo_stylesSet = 'liferayStyles';
 
