@@ -1,0 +1,9 @@
+*.class
+docroot/WEB-INF/classes
+.classpath
+.settings
+.project
+.externalToolBuilders
+.sass-cache
+.svn
+/bin/
